@@ -74,7 +74,7 @@ Our analysis highlights critical factors influencing traffic patterns:
    - Holiday-specific trends
 
 3. **Visualization Strategy**
-  ** - Temporal trends:** Line Chart
+   - **Temporal trends:** Line Chart
 This chart captures changes in traffic volume over time, offering insights into seasonal patterns and daily variations. Users can filter the data by day, week, month, and year, allowing for detailed trend analysis tailored to specific time frames.
 
    - **Weather condition correlations:** Horizontal Bar Chart
