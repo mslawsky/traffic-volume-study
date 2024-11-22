@@ -10,7 +10,7 @@ This project explores traffic volume across days, holidays, and weather conditio
 ---
 
 ## Executive Summary & Key Findings
-![Executive Summary](traffic-executive-summary.png)
+![Executive Summary](traffic-volume-executive-summary.png)
 
 ---
 
