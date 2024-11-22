@@ -66,6 +66,7 @@ Our analysis highlights critical factors influencing traffic patterns:
 1. **Data Integration & Cleaning**
    - Unified and validated datasets
    - Addressed missing and inconsistent entries
+   - Tools utilized included BigQuery, ETL, Python (Pandas, NumPy), and SQL
 
 2. **Metric Development**
    - Traffic volume by day
@@ -74,8 +75,13 @@ Our analysis highlights critical factors influencing traffic patterns:
 
 3. **Visualization Strategy**
    - Temporal trends: Line Chart
+This chart captures changes in traffic volume over time, offering insights into seasonal patterns and daily variations. Users can filter the data by day, week, month, and year, allowing for detailed trend analysis tailored to specific time frames.
+
    - Weather condition correlations: Horizontal Bar Chart
+This chart highlights the relationship between traffic volume and various weather conditions, with each bar corresponding to a different weather category (e.g., clear, cloudy, rainy.) This visualization helps stakeholders identify weather patterns that significantly impact traffic flow, aiding in forecasting and planning.
+
    - Holiday-based patterns: Bubble Chart
+This bubble chart visualizations traffic volume variations across different holidays. Each bubble is proportional to the traffic volume recorded on that day, allowing stakeholders to quickly identify holidays with unusually high traffic or low traffic and better prepare for such fluctuations.
 
 ### Implementation Recommendations
 
