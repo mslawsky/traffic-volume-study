@@ -24,14 +24,16 @@ Our analysis highlights critical factors influencing traffic patterns:
 
 ![Traffic Volume Over Time](traffic-volume-over-time-vis.png)
 
+
 2. **Weather Impacts**:
    - Clear correlation between adverse weather and decreased traffic.
    - Resource allocation recommendations during severe conditions.
   
 ![Traffic Volume by Weather Conditions](traffic-volume-weather-conditions-vis.png)
 
+
 3. **Holiday Traffic Trends**:
-   - Notable spikes during holidays.
+   - Notable spikes during holidays, most notably New Years Day, Labor Day, Independence Day, Memorial Day, Thanksgiving Day, and Christmas Day.
    - Improved planning for holiday-specific demands.
 
 ![Traffic Volume by Holiday](traffic-volume-by-holiday-vis.png)
