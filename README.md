@@ -48,7 +48,7 @@ Our analysis highlights critical factors influencing traffic patterns:
 ## Project Documentation
 
 ### Business Intelligence Documents
-- [Strategy Document](https://github.com/mslawsky/traffic-volume-study/blob/main/strategy-doc-traffic-volume.pdf) (PDF)
+- [Strategy Document](https://github.com/mslawsky/traffic-volume-study/blob/main/strategy-document-traffic-volume.pdf) (PDF)
 - [Stakeholder Requirements](https://github.com/mslawsky/traffic-volume-study/blob/main/stakeholder-requirements-traffic-volume.pdf) (PDF)
 - [Project Requirements](https://github.com/mslawsky/traffic-volume-study/blob/main/project-requirements-traffic-volume.pdf) (PDF)
 - [Dashboard Mockup](https://github.com/mslawsky/traffic-volume-study/blob/main/traffic-volume-mockup.png) (Image)
