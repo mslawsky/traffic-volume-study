@@ -57,7 +57,7 @@ Our analysis highlights critical factors influencing traffic patterns:
 
 📂 **Data File**  
 - [Traffic Data: Metro Interstate](https://github.com/mslawsky/traffic-volume-study/raw/main/metro-interstate-traffic-volume.csv)
-
+![Data File](data-airbnb-athens.png)
 
 ---
 
